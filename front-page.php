@@ -1,3 +1,38 @@
+<body class="dark-scheme">
+    <div id="wrapper">
+        <div class="float-text show-on-scroll">
+            <span><a href="#">Scroll to top</a></span>
+        </div>
+        <div class="scrollbar-v show-on-scroll"></div>
+        
+        <!-- page preloader begin -->
+        <div id="de-loader"></div>
+        <!-- page preloader close -->
+
+        <!-- content begin -->
+        <div class="section-dark no-bottom no-top" id="content">
+
+            <div id="top"></div>
+
+            <section class="no-top">
+
+                <div class="text-fit-wrapper">
+                    <h1 class="text-fit wow">NATHAN</h1>
+                    <div class="d-menu-1 wow" data-wow-delay=".3s">
+                        <ul>
+                            <li class="active"><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Me</a></li>
+                            <li><a href="services.html">What I Do</a></li>
+                            <li><a href="works.html">Works</a></li>
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="contact.html">Hire Me</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="spacer-double"></div>
+
                 <div class="container">
                     <div class="spacer-double d-lg-none d-sm-block"></div>
                     <div class="row align-items-center g-4 gx-5">
@@ -347,3 +382,4 @@
             </section>
 
         </div>
+        <!-- content close -->
